@@ -1,0 +1,1 @@
+add_library(lib HandleParse/id3parse.h HandleParse/id3parse.cpp FramesFactory/Frame.h FramesFactory/Frame.cpp ConvertionFuncs/assistant.h ConvertionFuncs/assistant.h FrameParse/FrameHandle.h FrameParse/FrameHandle.cpp FrameParse/FrameHandle.cpp ConvertionFuncs/assistant.cpp)
