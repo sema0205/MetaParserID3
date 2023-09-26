@@ -1,3 +1,3 @@
 # ID3v2.4 Metadata Parser
 
-Консольное приложение для отображения метаинформации в формате ID3v2.4 из mp3-файлов.
+Console application for displaying metainformation in ID3v2.4 format from mp3 files.
